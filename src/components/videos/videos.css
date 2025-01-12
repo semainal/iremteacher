@@ -1,0 +1,52 @@
+.videos {
+    background: url("../../img/backround.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110vh;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.videosTitle {
+    font-weight: 600;
+    color: #6A9C89;
+    font-size: 36px;
+}
+
+.col{
+    width: 25%;
+    height: 300px;
+    margin-left: 50px;
+  
+
+}
+
+.videosBody{
+    color: #6A9C89;
+    text-align: center;
+    align-items: center;
+    font-size: 36px;
+}
+
+.videosCardBody{
+   margin-left: 10%;
+   margin-top: 1%;
+
+}
+
+.picturesCardBody{
+    margin-left: 1%;
+    margin-top: 1%;
+ 
+ }
+
+ .imgs{
+    margin-top: -5px;
+ }
+
+ .imgs:hover {
+    -ms-transform: scale(1.8); 
+    -webkit-transform: scale(1.8); 
+     transform: scale(1.8); 
+   }
+    

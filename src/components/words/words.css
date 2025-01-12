@@ -1,0 +1,66 @@
+.words{
+    height: 100vh;
+    text-align: center;
+    padding-top: 3%;
+    background:url("../../img/backgroundr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+.wordsTitle{
+    font-weight: 600;
+    color: #6A9C89;
+    font-size: 36px;
+  
+}
+
+
+.colTitle{
+    font-size: 24px;
+    color: #6A9C89;
+    font-weight: 600;
+    
+}
+
+
+
+.beginnerwords{
+    width: 80%;
+    height: 100%;
+}
+
+.beginnerwords:hover{
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+     transform: scale(1.5); 
+}
+
+.worddecs{
+    font-size: 600;
+    color: #ffa248;
+    font-size: 24px;
+}
+
+.boxAdv{
+    border:1px solid #3A584D;
+    border-radius: 3px;
+    border-width: 100%;
+    height: 100%;
+}
+
+.advimg{
+    margin-top: 2%;
+    width: 50%;
+    height: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: #3A584D;
+}
+
+.boxAvdTitle {
+    margin-top: 5%;
+    color: #3A584D  ;
+}
