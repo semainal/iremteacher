@@ -94,7 +94,8 @@
     .about{
       flex-direction: column;
       text-align: center;
-      margin-top: 50px;
+      margin-top: -60%;
+   
     }
 
     .a-left {
@@ -136,6 +137,19 @@
         font-size: 12px;
         margin-left: 5%;
      
+    }
+
+    .about-linkImg {
+        width: 60px;
+        height: 50px;
+        border-radius: 10px;
+        margin-top: -2%;
+        margin-left: 10%;
+    
+    }
+
+    .instagramaddress {
+        font-size: 18px;
     }
 
     
