@@ -64,3 +64,60 @@ a{
     margin-top: 5%;
     color: #3A584D  ;
 }
+
+@media screen and (max-width: 480px) {
+    .wordsTitle{
+        font-weight: 600;
+        color: #6A9C89;
+        font-size: 24px;
+      
+    }
+
+    .colTitle{
+        font-size: 18px;
+        color: #6A9C89;
+        font-weight: 600;
+        
+    }
+
+    .beginnerwords{
+        width: 65%;
+        height: 85%;
+    }
+
+    .beginnerwords:hover{
+        -ms-transform: scale(1.8); 
+        -webkit-transform: scale(1.8); 
+         transform: scale(1.8); 
+    }
+
+    .worddecs{
+        font-size: 600;
+        color: #ffa248;
+        font-size: 16px;
+    }
+
+    .boxAdv{
+        border:2px solid #3A584D;
+        border-radius: 5px;
+        border-width: 100%;
+        height: 100%;
+    }
+
+    .advimg{
+        margin-top: 2%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .boxAvdTitle {
+        margin-top: 7%;
+        color: #3A584D  ;
+        font-size: 16px;
+    }
+
+    .col-6{
+        margin-left: 25%;
+    }
+
+}
