@@ -152,6 +152,12 @@
         font-size: 18px;
     }
 
+     .about-linkImg:hover {
+        -ms-transform: scale(1.8); 
+        -webkit-transform: scale(1.8); 
+         transform: scale(1.8); 
+    }
+
     
 
 }
