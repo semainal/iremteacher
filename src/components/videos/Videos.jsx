@@ -58,25 +58,25 @@ export default function Videos() {
     <div class="container text-center">
   <div class="row">
     <div class="col">
-      <img src={img1} alt="" width="150px" height="200px" className="imgs"/>
+      <img src={img1} alt="" width="100px" height="150px" className="imgs"/>
     </div>
     <div class="col">
-      <img src={img2} alt="" width="150px" height="200px" className="imgs"/>
+      <img src={img2} alt="" width="100px" height="150px" className="imgs"/>
     </div>
     <div class="col">
-    <img src={img3} alt="" width="150px" height="200px" className="imgs"/>
+    <img src={img3} alt="" width="100px" height="150px" className="imgs"/>
     </div>
     <div class="col">
-      <img src={img4} alt="" width="150px" height="200px" className="imgs"/>
+      <img src={img4} alt="" width="100px" height="150px" className="imgs"/>
       </div>
     <div class="col">
-    <img src={img5} alt="" width="150px" height="200px" className="imgs"/>
+    <img src={img5} alt="" width="100px" height="150px" className="imgs"/>
     </div>
     <div class="col">
-    <img src={img6} alt="" width="150px" height="200px" className="imgs"/>
+    <img src={img6} alt="" width="100px" height="150px" className="imgs"/>
     </div>
     <div class="col">
-    <img src={img7} alt="" width="150px" height="200px" className="imgs"/>
+    <img src={img7} alt="" width="100px" height="150px" className="imgs"/>
     </div>
   </div>
   </div>
